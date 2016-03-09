@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tenthousand</string>
+    <string name="txtView_top">Wie lange hast du geübt?</string>
+    <string name="txt_dauer">Gib hier die Dauer ein</string>
+    <string name="cmd_Absenden">OK</string>
+    <string name="txt_bottom">Insgesamt geübt:</string>
+    <string name="txt_gesamt">0</string>
+    <string name="txt_saved_time_total">0</string>
+    <string name="txt_minute">Minuten</string>
+    <string name="txt_cmdDeleteAll">Alle Daten löschen</string>
+</resources>
